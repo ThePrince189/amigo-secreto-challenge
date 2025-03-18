@@ -16,7 +16,7 @@ Bem-vindo ao projeto **Amigo Secreto**! 🎉 Este é um aplicativo web interativ
 
 ## 📸 Demonstração
 
-![Preview do Projeto](assets/Projeto.png)
+![Preview do Projeto](assets/amigo-secreto.png)
 
 ---
 
