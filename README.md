@@ -1,12 +1,35 @@
-<h1>Amigo Secreto</h1>
+# 🎁 Amigo Secreto
 
-<h2>Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+Bem-vindo ao projeto **Amigo Secreto**! 🎉 Este é um aplicativo web interativo onde você pode adicionar amigos e sortear um nome aleatório para realizar um amigo secreto.
 
-## Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+---
+
+## 🚀 Funcionalidades
+
+✅ Adicionar amigos à lista 📜  
+✅ Ver a lista de amigos cadastrados 👥  
+✅ Evitar nomes duplicados ❌  
+✅ Sortear um amigo secreto aleatoriamente 🎲  
+✅ Interface moderna e responsiva 📱💻  
+
+---
+
+## 📸 Demonstração
+
+![Preview do Projeto](assets/amigo-secreto.png)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- **HTML5** 📄
+- **CSS3** 🎨
+- **JavaScript (JS)** ⚡
+
+---
+
+## 📂 Estrutura do Projeto
+📂 amigo-secreto │── 📜 index.html # Estrutura do site │── 📜 style.css # Estilos e layout │── 📜 app.js # Lógica do sorteio e interação │── 📂 assets # Imagens e ícones
 
